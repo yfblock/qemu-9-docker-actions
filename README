@@ -1,0 +1,3 @@
+# README
+
+> This is a github action that provided the qemu-system-xxx(riscv64, aarch64, x86_64, loongarch64) and rust toolchain
